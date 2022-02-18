@@ -51,3 +51,7 @@ python app.py
 <span>
     <img src="https://user-images.githubusercontent.com/85804895/154598400-c8377cb8-28ec-4f52-9820-c9360ba30e47.gif">
 </span>
+
+# Agradecimentos
+
+https://www.udemy.com/course/programacao-orientada-a-objetos-com-python/
