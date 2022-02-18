@@ -48,3 +48,6 @@ python app.py
 
 # Resultado
 
+<span>
+    <img src="">
+</span>
